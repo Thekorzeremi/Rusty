@@ -1,4 +1,6 @@
 fn main() {
+    // SCALARS
+    // ---------------------------------------------------------------------
     // f64
     let x = 2.0; 
 
@@ -29,6 +31,8 @@ fn main() {
     let z: char = 'ℤ'; // with explicit type annotation
     let heart_eyed_cat = '😻';
 
+    // COMPOUNDS
+    // -----------------------------------------------------------------------------
     // tupples
     let tup: (i32, f64, u8) = (500, 6.4, 1); // tupples
 
