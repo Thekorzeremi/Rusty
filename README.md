@@ -1,0 +1,2 @@
+# Rusty
+Practicing Rust book
