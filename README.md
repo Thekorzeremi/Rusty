@@ -5,7 +5,8 @@ Current time coding :
 
 Practicing Rust book : https://doc.rust-lang.org/book/
 
-Currently done : https://doc.rust-lang.org/book/ch03-02-data-types.html
+Currently done : https://doc.rust-lang.org/book/ch03-02-data-types.html  
 Currently at : https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
 
-**I don't use AI !! Only docs, IDE and my brain !! RTFM**
+**I don't use AI !! Only docs, IDE and my brain !! RTFM**  
+
